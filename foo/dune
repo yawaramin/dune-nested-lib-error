@@ -1,0 +1,4 @@
+(library
+  (name foo)
+  (libraries bar)
+  (modules bar))
